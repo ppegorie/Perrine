@@ -19,7 +19,7 @@ public class Perrine {
         // TODO code application logic here
         System.out.println("Hello world !");
         Lapin lap = new Lapin("Panpan", 2);
-        while(i <= 10){
+        while(i < 10){
             lap.crie();
             i = i + 1;
         }
