@@ -22,7 +22,6 @@ public class Perrine {
         while(i <= 10){
             lap.crie();
             i = i + 1;
+        }
     }
-        
-    
 }
